@@ -2,6 +2,7 @@
   "headers": {
     "/*": {
       "X-Author": "Serega89Kh"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
